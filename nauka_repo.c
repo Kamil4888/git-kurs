@@ -2,7 +2,7 @@
 
 int main(){
 
-printf("Kamil Godek ");
+printf("Kamil ciezadlo");
 printf("Chce sie nauczyc programowac ! ");
 
     return 0;
